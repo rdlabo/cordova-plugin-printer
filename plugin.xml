@@ -98,6 +98,8 @@
 
         <framework src="com.android.support:support-v4:$ANDROID_SUPPORT_V4_VERSION"/>
 
+        <framework src="androidx.print:print:1.1.0-beta01"/>
+
         <source-file src="src/android/PrintAdapter.java"
             target-dir="src/de/appplant/cordova/plugin/printer" />
 
